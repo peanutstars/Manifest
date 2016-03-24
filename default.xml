@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="github" fetch="https://github.com"/>
-  <project path="lib/pylib" name="Pylib" remote="github" revision="master"/>
+  <remote name="github" fetch="https://github.com/peanutstars"/>
+  <project path="lib/pylib" name="PyLib" remote="github" revision="master"/>
 
 </manifest>
