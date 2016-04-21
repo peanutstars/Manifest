@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-  <remote name="github" fetch="https://github.com/peanutstars"/>
-  <project path="PiCAM" name="PiCAM" remote="github" revision="master"/>
-  <project path="live555" name="ExtLive555" remote="github" revision="master"/>
-
-</manifest>

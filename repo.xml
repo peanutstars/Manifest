@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github" fetch="https://github.com/peanutstars"/>
+
+  <!-- Project Root Manager -->
+  <project path="Manifest" name="Manifest" remote="github" revision="master"/>
+
+  <!-- Library -->
+  <project path="libpy" name="libpy" remote="github" revision="master"/>
+
+  <!-- External Project, Open Source Codes -->
+  <project path="ExtLive555" name="ExtLive555" remote="github" revision="master"/>
+  <project path="ExtDomoticz" name="ExtDomoticz" remote="github" revision="master"/>
+
+  <!-- Initialization For Linux -->
+  <project path="Scripts" name="Scripts" remote="github" revision="master"/>
+
+  <!-- Android Apps -->
+  <project path="APSCal" name="APSCal" remote="github" revision="master"/>
+
+  <!-- Media Codec for Test -->
+  <project path="MediaCodec" name="MediaCodec" remote="github" revision="master"/>
+
+  <!-- Projects -->
+  <project path="PiCAM" name="PiCAM" remote="github" revision="master"/>
+  <project path="PiFrame" name="PiFrame" remote="github" revision="master"/>
+
+</manifest>
