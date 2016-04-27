@@ -4,6 +4,6 @@
   <remote name="github" fetch="https://github.com/peanutstars"/>
   <project path="" name="PiCAM" remote="github" revision="master"/>
   <project path="PiCAM/src/external/live555" name="ExtLive555" remote="github" revision="master"/>
-  <project path="PiCAM/src/lib/libpy" name="libpy" remote="github" revision="master"/>
+  <project path="PiCAM/src/lib/python" name="libpy" remote="github" revision="master"/>
 
 </manifest>

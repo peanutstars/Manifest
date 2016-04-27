@@ -20,6 +20,10 @@ It refers to http://stackoverflow.com/questions/14540262/how-does-git-push-work-
 ```shell
 #> repo start master [--all |<inner_project>...]
 ```
+OR
+```shell
+#> git checkout --track origin/master
+```
 
 ###### Step #2
 Change, Modify, Delete and Add Codes and then push source upstream.
